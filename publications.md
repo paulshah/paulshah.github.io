@@ -13,6 +13,9 @@ sitemap: false
 
 [The weak lensing magnification of Type Ia supernovae](https://arxiv.org/pdf/2203.09865.pdf) P. Shah, P. Lemos and O. Lahav
 
+[A buyer's guide to the Hubble constant](https://arxiv.org/pdf/2109.01161.pdf) P.Shah, P. Lemos and O. Lahav, A&A Review, Vol 29, Issue 1, Dec 2021
+
+
 ## High energy physics
 
 [Phase transitions in a vortex gas](https://www.sciencedirect.com/science/article/abs/pii/055032139400583Z?via%3Dihub) P. Shah, Nuclear 

@@ -67,5 +67,24 @@ O. Lahav
 
 [Correcting Type Ia supernova luminosity distances for weak lensing](https://tbc) In Prep, P.Shah, P.Lemos and O.Lahav
 
+## Hubble Constant
+
+There are as many opinions on the Hubble constant as there are ways to calculate it! Two sets of results that are much discussed are 
+from the SHOeS team (who use geometrical distances to calibrate Cepheid magnitudes, and Cepheids to calibrate Type Ia supernovae), and from the 
+Planck team (who use the power spectrum of the CMB plus the assumption that the universe is $$\Lambda$$CDM). These two results tempt the 
+explanation that it is an "early" vs "late" tension, and perhaps a solution can be found in modifying the expansion history away from 
+$$\Lambda$$CDM by some novel physics. However, this is to discount local distances from TRGBs that are inconsistent with Cepheids (although this 
+is disputed by some authors), plus data from galaxy surveys which when combined with a density constraint from BBN is consistent with CMB results. 
+Additionally, the Planck results have a peculiar internal inconsistency dubbed $$A_{\rm lens}$$, although the significance of this is unclear.  
+
+Our review of this topic had three aims. Firstly, we aim to provide a pedagogical introduction to the results. Our paper 
+should be accessible to undergraduates, while at the same time providing enough detail on systematics to satisfy the more experienced reader.
+Secondly, our aim was to provide an impartial (and perhaps imperfect!) opinion as to the historical and future development of most of the main 
+probes of $$H_0$$. Thirdly, for astronomers in a hurry, we make recommendations about what value to use. 
+
+<img src="/assets/img/H0_heatmap3.pdf" width="600">
+
+[A buyer's guide to the Hubble constant](https://arxiv.org/pdf/2109.01161.pdf) P.Shah, P. Lemos and O. Lahav, A&A Review, Vol 29, Issue 1, Dec 2021
+
 Continue with [Publications](/publications/){:.heading.flip-title}
 {:.read-more}

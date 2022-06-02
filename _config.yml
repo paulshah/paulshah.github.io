@@ -80,8 +80,9 @@ paginate_path:         /:num/
 
 # shahpa : what the useless Hydejack docs dont tell you! Use theme when building locally, remote theme to push to git
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+#theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9
+theme: hydecorp/hydejack@v9
 
 
 # Customizaton
