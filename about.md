@@ -13,11 +13,10 @@ hide_description: true
 I obtained my Ph.D in 1995 at [DAMTP](https://www.damtp.cam.ac.uk), University of Cambridge, UK. 
 My thesis was on solitons in quantum field theory, supervised by 
 [Nick Manton](https://www.damtp.cam.ac.uk/research/hep/person/nsm10). 
-I then moved to a postdoctoral position at St. John's College, Cambridge, 
+I then held a postdoctoral position at St. John's College, Cambridge, 
 but ran off for the bright lights of the City...
 
-As a banker, I traded interest rate derivatives and managed the trading team and  quants 
-who wrote the models. 
+I worked in Singapore, London, Chicago and Tokyo trading interest rate derivatives. Latterly, I managed the trading team and quants who wrote the models. 
 
 Wanting to resume research, I took an MSc. in Astrophysics at [UCL](https://www.ucl.ac.uk/astrophysics/) in 2021. 
 I have been part of the Cosmology group, working with [Ofer Lahav](https://www.ucl.ac.uk/astrophysics/professor-ofer-lahav) since 2022.

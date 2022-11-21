@@ -1,8 +1,8 @@
 ---
 layout: list
-title: Paper of the Week
+title: Blog
 description: >
-  Paper of the week
+  Research, comments and curiosities
 hide_description: true
 grouped: true
 ---

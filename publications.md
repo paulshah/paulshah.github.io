@@ -9,11 +9,11 @@ sitemap: false
 
 ## Cosmology
 
-[Correcting Type Ia supernova luminosity distances for weak lensing](https://tbc) In Prep, P. Shah, P. Lemos and O. Lahav
+[The impact of weak lensing on Type Ia supernovae luminosity distances](https://arxiv.org/pdf/2210.10688.pdf) Paul Shah, Pablo Lemos and Ofer Lahav
 
-[The weak lensing magnification of Type Ia supernovae](https://arxiv.org/pdf/2203.09865.pdf) P. Shah, P. Lemos and O. Lahav
+[The weak lensing magnification of Type Ia supernovae](https://arxiv.org/pdf/2203.09865.pdf) Paul Shah, Pablo Lemos and Ofer Lahav
 
-[A buyer's guide to the Hubble constant](https://arxiv.org/pdf/2109.01161.pdf) P.Shah, P. Lemos and O. Lahav, A&A Review, Vol 29, Issue 1, Dec 2021
+[A buyer's guide to the Hubble constant](https://arxiv.org/pdf/2109.01161.pdf) Paul Shah, Pablo Lemos and Ofer Lahav, A&A Review, Vol 29, Issue 1, Dec 2021
 
 
 ## High energy physics
